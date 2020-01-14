@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mongodb-js/kerberos.git"
+    "url": "https://github.com/ark76r/kerberos.git"
   },
   "keywords": [
     "kerberos",
